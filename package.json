@@ -1,0 +1,23 @@
+{
+  "name": "codifying",
+  "version": "1.0.0",
+  "description": "Suite of tests",
+  "main": "server.js",
+  "scripts": {
+    "test": "tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspavin/codifying.git"
+  },
+  "author": "Matheus Pavin Pedroso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuspavin/codifying/issues"
+  },
+  "homepage": "https://github.com/matheuspavin/codifying#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
